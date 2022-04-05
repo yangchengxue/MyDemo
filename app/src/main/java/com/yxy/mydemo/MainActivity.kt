@@ -8,5 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         // test 1
+        // token : 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
     }
 }
